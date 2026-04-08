@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodataku</title>
+</head>
+
+<body>
+
+    <div style="background-color: lightblue; padding: 10px;">
+        <h1 align="center">BIODATAKU</h1>
+    </div>
+
+    <div style="background-color: lightyellow; padding: 15px;">
+
+        <p>
+            <b>NPM:</b> <font color="blue">12345678</font><br>
+            <b>Nama:</b> 
+            <span style="color:red;">Nabilah</span>
+            <span style="color: blue;">Khansa</span> 
+            <span style="color:green;">Ginanjar</span><br>
+            <b>Usia:</b> <u>20 Tahun</u>
+        </p>
+
+        <hr>
+
+        <p align="justify">
+            <i>Halo!</i> Aku adalah seorang mahasiswa yang sedang belajar 
+            <b>Pemrograman Web</b>. Saya tertarik dengan dunia teknologi dan ingin menjadi web developer.
+        </p>
+
+        <hr>
+
+        <h3>Pengalaman</h3>
+        <ul type="circle">
+            <li>Membuat website sederhana</li>
+            <li>Belajar HTML</li>
+            <li>Mengerjakan project atau tugas kampus</li>
+        </ul>
+
+        <h3>Top 3 Kpop</h3>
+        <ol type="A">
+            <li>BTS</li>
+            <li>Seventeen</li>
+            <li>NCT</li>
+        </ol>
+
+        <h3>Makanan Favorit</h3>
+        <ul>
+            <li>Hot Lava Chicken</li>
+            <li>Sate Madura</li>
+            <li>Rendang</li>
+        </ul>
+
+        <hr>
+
+        <h3>Media Sosial</h3>
+        <p>
+            Instagram: 
+            <a href="https://www.instagram.com/nbiellakhnss?igsh=NjNzN2c4Y2dzbTNu" target="_blank">
+                Klik di sini
+            </a>
+        </p>
+
+        <p>
+            Email: 
+            <a href="mailto:nblh0406@gmail.com">
+                Kirim Email
+            </a>
+        </p>
+
+    </div>
+
+</body>
+</html>
